@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Script para testar os diferentes sons do piezo buzzer
-"""
-
 import RPi.GPIO as GPIO
 import time
 
